@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "slug": "if-this-works-now-ill-go-shoot-myself-wnh0qj",
+      "title": "If this works now, I'll go shoot myself",
+      "description": "",
+      "body": "",
+      "createdAt": "2022-11-07T20:15:23.806Z",
+      "updatedAt": "2022-11-07T20:15:23.806Z",
+      "tagList": [],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "test",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      }
+    }
+  ],
+  "articlesCount": 1
+}
